@@ -1,0 +1,910 @@
+{
+  "year": 2026,
+  "nameA": "Persoana Andreea",
+  "nameC": "Persoana Cristian",
+  "categories": [
+    "Salarii",
+    "Chirii",
+    "Investiții",
+    "Utilități",
+    "Alimentare",
+    "Transport",
+    "Sănătate",
+    "Educație",
+    "Divertisment",
+    "Auto",
+    "Online & Media",
+    "Casă & Grădină",
+    "Personal",
+    "Altele"
+  ],
+  "articole": [
+    {
+      "id": 1,
+      "den": "Mașina de tuns",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 250,
+      "luni": [
+        250,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "den": "Eugen",
+      "pers": "Comun",
+      "cat": "Altele",
+      "total": 600,
+      "luni": [
+        600,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "den": "Electric",
+      "pers": "Comun",
+      "cat": "Utilități",
+      "total": 4500,
+      "luni": [
+        870,
+        515,
+        515,
+        515,
+        515,
+        515,
+        515,
+        515
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "den": "Gaz",
+      "pers": "Comun",
+      "cat": "Utilități",
+      "total": 4500,
+      "luni": [
+        900,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "den": "Telefoane & Internet & TV",
+      "pers": "Comun",
+      "cat": "Online & Media",
+      "total": 2200,
+      "luni": [
+        100,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "den": "Monitor calculator",
+      "pers": "Comun",
+      "cat": "Online & Media",
+      "total": 1500,
+      "luni": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1500,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "den": "Internet, Web, Platforme",
+      "pers": "Comun",
+      "cat": "Online & Media",
+      "total": 4800,
+      "luni": [
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 8,
+      "den": "Facebook & Instagram & LinkedIn",
+      "pers": "Comun",
+      "cat": "Online & Media",
+      "total": 2900,
+      "luni": [
+        300,
+        300,
+        400,
+        400,
+        400,
+        400,
+        400,
+        300
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "den": "RCA",
+      "pers": "Comun",
+      "cat": "Auto",
+      "total": 1850,
+      "luni": [
+        900,
+        0,
+        0,
+        0,
+        950,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 10,
+      "den": "Rovinietă Pajero & Renault",
+      "pers": "Comun",
+      "cat": "Auto",
+      "total": 720,
+      "luni": [
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 11,
+      "den": "Pajero cumpărare ANAF",
+      "pers": "Comun",
+      "cat": "Auto",
+      "total": 7000,
+      "luni": [
+        0,
+        7000,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "den": "Reparații auto",
+      "pers": "Comun",
+      "cat": "Auto",
+      "total": 3500,
+      "luni": [
+        300,
+        300,
+        600,
+        700,
+        300,
+        700,
+        300,
+        300
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 13,
+      "den": "Dedeman diverse",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 600,
+      "luni": [
+        0,
+        600,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "den": "Poartă Zara",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 500,
+      "luni": [
+        500,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 15,
+      "den": "Gărduț Dedeman",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 300,
+      "luni": [
+        0,
+        300,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 16,
+      "den": "Adidași CPB",
+      "pers": "C",
+      "cat": "Personal",
+      "total": 300,
+      "luni": [
+        300,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 17,
+      "den": "Adidași APB",
+      "pers": "A",
+      "cat": "Personal",
+      "total": 300,
+      "luni": [
+        300,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 18,
+      "den": "Parfumerie A + C",
+      "pers": "Comun",
+      "cat": "Personal",
+      "total": 2480,
+      "luni": [
+        1200,
+        300,
+        0,
+        500,
+        120,
+        120,
+        120,
+        120
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 19,
+      "den": "Concediu",
+      "pers": "Comun",
+      "cat": "Divertisment",
+      "total": 20000,
+      "luni": [
+        0,
+        0,
+        0,
+        0,
+        20000,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 20,
+      "den": "Combustibil",
+      "pers": "Comun",
+      "cat": "Auto",
+      "total": 8500,
+      "luni": [
+        500,
+        500,
+        500,
+        500,
+        5000,
+        500,
+        500,
+        500
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 21,
+      "den": "Haine de vară A + C",
+      "pers": "Comun",
+      "cat": "Personal",
+      "total": 2000,
+      "luni": [
+        1000,
+        0,
+        0,
+        1000,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 22,
+      "den": "Medicamente",
+      "pers": "Comun",
+      "cat": "Sănătate",
+      "total": 2500,
+      "luni": [
+        500,
+        200,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 23,
+      "den": "Investigații",
+      "pers": "Comun",
+      "cat": "Sănătate",
+      "total": 2600,
+      "luni": [
+        600,
+        0,
+        0,
+        500,
+        0,
+        500,
+        500,
+        500
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 24,
+      "den": "Șerbu restanțe",
+      "pers": "Comun",
+      "cat": "Altele",
+      "total": 20000,
+      "luni": [
+        2500,
+        2500,
+        2500,
+        2500,
+        2500,
+        2500,
+        2500,
+        2500
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 25,
+      "den": "Reparație curte 22 decembrie",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 1500,
+      "luni": [
+        0,
+        500,
+        1000,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 26,
+      "den": "Leagăn",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 1400,
+      "luni": [
+        0,
+        0,
+        0,
+        1400,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 27,
+      "den": "Foișor",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 3000,
+      "luni": [
+        0,
+        1000,
+        1000,
+        1000,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 28,
+      "den": "Curățenie lunar 8x300",
+      "pers": "Comun",
+      "cat": "Casă & Grădină",
+      "total": 2400,
+      "luni": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 29,
+      "den": "Costuri Filanda",
+      "pers": "Comun",
+      "cat": "Altele",
+      "total": 35000,
+      "luni": [
+        0,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000,
+        5000
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 30,
+      "den": "Casă + grădină (mâncare, legume)",
+      "pers": "Comun",
+      "cat": "Alimentare",
+      "total": 9000,
+      "luni": [
+        1200,
+        1200,
+        1200,
+        1200,
+        800,
+        1000,
+        1200,
+        1200
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 31,
+      "den": "Altele APB + CPB",
+      "pers": "Comun",
+      "cat": "Altele",
+      "total": 7000,
+      "luni": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 32,
+      "den": "Alte neprevăzute",
+      "pers": "Comun",
+      "cat": "Altele",
+      "total": 8000,
+      "luni": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "realizat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "tranzactii": [
+    {
+      "id": 1777635320274,
+      "tip": "venit",
+      "pers": "A",
+      "cat": "Salarii",
+      "suma": 8700,
+      "luna": 4,
+      "desc": ""
+    },
+    {
+      "id": 1777635335368,
+      "tip": "venit",
+      "pers": "C",
+      "cat": "Salarii",
+      "suma": 4400,
+      "luna": 4,
+      "desc": ""
+    }
+  ],
+  "budgetInc": 0,
+  "budgetExp": 161700,
+  "budgetSav": 20000
+}
